@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=JrIpAztWv1Q
 - Otherwise use the the libraries shown in the video 
 
 #License
-MAIA is licenced under [AGPL](https://github.com/danyalsiraj/MAIA-Cursor-Control-/blob/master/LICENSE) licence. contact me for commercial use. 
+MAIA is licenced under [AGPL](https://github.com/danyalsiraj/MAIA-Cursor-Control-/blob/master/LICENSE.txt) licence. contact me for commercial use. 
